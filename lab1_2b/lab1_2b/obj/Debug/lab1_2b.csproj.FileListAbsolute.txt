@@ -1,0 +1,11 @@
+D:\mapz\lab1_2b\lab1_2b\bin\Debug\lab1_2b.exe.config
+D:\mapz\lab1_2b\lab1_2b\bin\Debug\lab1_2b.exe
+D:\mapz\lab1_2b\lab1_2b\bin\Debug\lab1_2b.pdb
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.csproj.AssemblyReference.cache
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.csproj.SuggestedBindingRedirects.cache
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.Form1.resources
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.Properties.Resources.resources
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.csproj.GenerateResource.cache
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.csproj.CoreCompileInputs.cache
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.exe
+D:\mapz\lab1_2b\lab1_2b\obj\Debug\lab1_2b.pdb
